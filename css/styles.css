@@ -1,0 +1,126 @@
+body{
+margin:0px;
+text-align : center;
+font-family: "Comic Sans MS", sans-serif;
+}
+
+h1 {
+color:#E78EA9;
+font-size:5.625em;
+margin:50px auto 0 auto;
+font-family: 'Square Peg', sans-serif;
+}
+
+
+h2{
+color:#E78EA9;
+font-size:2.5rem;
+font-family: 'Comic Neue', sans-serif;
+font-weight:normal;
+}
+
+h3{
+color:#CE7BB0;
+font-family: 'Comic Neue', sans-serif;
+font-weight:bold;
+padding-bottom:50px;
+}
+
+.top {
+background-color: #062C30;
+}
+
+.middle-container{
+/*background-color: powderblue;*/
+}
+
+.bottom-container{
+/*background-color: grey;*/
+}
+
+.top-cloud{
+padding-top:50px;
+position: absolute;
+right:300px;
+}
+
+.bottom-cloud{
+position: absolute;
+left:300px;
+}
+
+.mountain-img{
+}
+
+.sanju{
+padding:10px;
+border-radius: 50%;
+width:15%;
+height:15%;
+}
+
+a{
+color:#603601;
+}
+
+
+.skill-row{
+width:50%;
+margin: 100px auto 100px auto;
+text-align:left;
+line-height:2;
+}
+
+
+.images{
+width:25%;
+float: left;
+margin-right: 30px;
+}
+
+
+.image2{
+width:25%;
+height: 200px;
+float: right;
+margin-left: 30px;
+}
+
+/*.p1{
+clear:left;
+}
+
+.p2{
+clear:right;
+}*/
+.contact-me{
+padding-bottom:50px;
+}
+
+
+.btn {
+  background: #FDEFF4;
+  background-image: -webkit-linear-gradient(top, #FDEFF4, #FDEFF4);
+  background-image: -moz-linear-gradient(top, #FDEFF4, #FDEFF4);
+  background-image: -ms-linear-gradient(top, #FDEFF4, #FDEFF4);
+  background-image: -o-linear-gradient(top, #FDEFF4, #FDEFF4);
+  background-image: linear-gradient(to bottom, #FDEFF4, #FDEFF4);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffbbbb;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FAEEE7;
+  background-image: -webkit-linear-gradient(top, #FAEEE7, #FAEEE7);
+  background-image: -moz-linear-gradient(top, #FAEEE7, #FAEEE7);
+  background-image: -ms-linear-gradient(top, #FAEEE7, #FAEEE7);
+  background-image: -o-linear-gradient(top, #FAEEE7, #FAEEE7);
+  background-image: linear-gradient(to bottom, #FAEEE7, #FAEEE7);
+  text-decoration: none;
+}
