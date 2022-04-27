@@ -28,14 +28,18 @@ padding-bottom:50px;
 
 .top {
 background-color: #062C30;
+position: relative;
+padding-top: 100px;
 }
 
 .middle-container{
-/*background-color: powderblue;*/
+background-color: #E9D5DA;
+margin: 100px 0;
 }
 
 .bottom-container{
-/*background-color: grey;*/
+background-color: grey;
+padding: 50px 0 20px
 }
 
 .top-cloud{
@@ -61,8 +65,9 @@ height:15%;
 
 a{
 color:#603601;
+margin: 10px 20px;
+text-decoration: none;
 }
-
 
 .skill-row{
 width:50%;
@@ -70,7 +75,6 @@ margin: 100px auto 100px auto;
 text-align:left;
 line-height:2;
 }
-
 
 .images{
 width:25%;
@@ -94,7 +98,8 @@ clear:left;
 clear:right;
 }*/
 .contact-me{
-padding-bottom:50px;
+width: 40%;
+margin: 40px auto 60px;
 }
 
 
